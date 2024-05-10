@@ -23,7 +23,7 @@ Olá! Me chamo Maria Eduarda. Sou apaixonada por programação e sou formada em 
 ## Estudos 
 - Bootcamp: Python AI Backend Developer
 - Bootcamp: Santander 2024 - Backend com Java
-
+- Informatica
 
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=0E76A8)](https://instagram.com/msouzs_) 
